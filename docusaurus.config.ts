@@ -115,13 +115,13 @@ const config: Config = {
       title: 'Tech Docs',
       items: [
         {
-          to: '/java',
+          to: '/java/intro',
           label: 'Java',
           position: 'left',
           docsPluginId: 'java',
         },
         {
-          to: '/javascript',
+          to: '/javascript/intro',
           label: 'JavaScript',
           position: 'left',
           docsPluginId: 'javascript',
