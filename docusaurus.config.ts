@@ -97,7 +97,7 @@ const config: Config = {
       '@docusaurus/plugin-content-docs',
       {
         id: 'javascript',
-        path: 'javascript',
+        path: 'JavaScript',
         routeBasePath: 'javascript',
         sidebarPath: require.resolve('./sidebarsJavascript.ts'),
         lastVersion: 'current',
