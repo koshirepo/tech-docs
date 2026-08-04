@@ -121,7 +121,7 @@ const config: Config = {
           docsPluginId: 'java',
         },
         {
-          to: '/javascript/intro',
+          to: '/javascript',
           label: 'JavaScript',
           position: 'left',
           docsPluginId: 'javascript',
