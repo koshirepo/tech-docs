@@ -98,7 +98,7 @@ const config: Config = {
       {
         id: 'javascript',
         path: 'javaScript',
-        routeBasePath: 'javascript',
+        routeBasePath: 'javaScript',
         sidebarPath: require.resolve('./sidebarsJavascript.ts'),
         lastVersion: 'current',
       },
@@ -121,7 +121,7 @@ const config: Config = {
           docsPluginId: 'java',
         },
         {
-          to: '/javascript',
+          to: '/javaScript',
           label: 'JavaScript',
           position: 'left',
           docsPluginId: 'javascript',
